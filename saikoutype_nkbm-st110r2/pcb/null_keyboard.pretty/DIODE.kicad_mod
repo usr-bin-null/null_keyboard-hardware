@@ -1,0 +1,10 @@
+(module null_keyboard:DIODE (layer F.Cu) (tedit 5A5FF360)
+  (fp_text reference D631 (at 0 0) (layer F.SilkS)
+    (effects (font (size 1.1 1.4) (thickness 0.2032)))
+  )
+  (fp_text value 1N4148 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (pad 1 thru_hole rect (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+  (pad 2 thru_hole circle (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+)
