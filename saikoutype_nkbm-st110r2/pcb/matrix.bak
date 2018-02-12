@@ -35,8 +35,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title "NKBM-ST110"
-Date "2018.01.29"
-Rev "2.1"
+Date "2018.02.11"
+Rev "2.2"
 Comp "[null]"
 Comment1 ""
 Comment2 ""
