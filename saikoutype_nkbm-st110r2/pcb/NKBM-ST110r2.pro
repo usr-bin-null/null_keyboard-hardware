@@ -1,4 +1,4 @@
-update=Mon 22 Jan 2018 06:47:50 AM CST
+update=Tue 17 Apr 2018 12:46:23 PM JST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,13 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/null/Code/null_keyboard-hardware/saikoutype_nkbm-st110r2/schematic/black-white/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
