@@ -1,4 +1,4 @@
-update=Tue 17 Apr 2018 12:46:23 PM JST
+update=Sat 06 Oct 2018 03:53:09 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=null_keyboard.pretty;null_keyboard.pretty
@@ -58,10 +56,12 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+[general]
+version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=/home/null/Code/null_keyboard-hardware/saikoutype_nkbm-st110r2/schematic/black-white/
+PlotDirectoryName=../schematic/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=

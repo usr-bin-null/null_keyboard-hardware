@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB_BREAKOUT
+D USB micro/mini connector
+K connector USB USB_OTG USB_mini USB_micro
+$ENDCMP
+#
+#End Doc Library
